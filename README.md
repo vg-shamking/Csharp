@@ -5,8 +5,8 @@
 ### Written by me and used for study purposes;
 ### Starting file is [Splash.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Splash.cs);
 ### Usage: any suitable IDE - personally I used Visual Studio.
+### Logon page is set for 'Admin' == 'admin' [Login.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Login.cs);
 
-## Logon page is set for 'Admin' == 'admin' [Login.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Login.cs);
 ## Main functions: 
 
 ### General view of application [Home.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Home.cs)
