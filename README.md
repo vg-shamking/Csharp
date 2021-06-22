@@ -8,7 +8,8 @@
 
 ### Logon page is set for 'Admin' == 'admin' [Login.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Login.cs);
 ### Main functions: 
-> [Selling.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Selling.cs)
-> [Mobile.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Mobile.cs)
-> [Home.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Home.cs)
-> [Accessories.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Accessories.cs)
+
+> General view of application [Home.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Home.cs)
+> Print, pre-view :[Selling.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Selling.cs)
+> Usage of SQL (SSMS) [Mobile.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Mobile.cs)
+> Another SQL tables [Accessories.cs](https://github.com/vg-shamking/Csharp/blob/main/MobileSeller/MobileSeller/Accessories.cs)
