@@ -1,4 +1,4 @@
-# Welcome to C# apps
+# Welcome to C# apps!
 
 ### File Mobile Seller was created for understanding the basics of SQL integration in C#. 
 
